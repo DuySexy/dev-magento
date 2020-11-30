@@ -1,0 +1,6 @@
+{
+    "name": "duysexy/dev-magento",
+    "require": {
+        "php": "^7.0.*"
+    }
+}
